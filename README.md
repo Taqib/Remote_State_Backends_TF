@@ -16,3 +16,6 @@ Before starting this lab, ensure you have the following:
 ###Task
 
 You are part of a DevOps team tasked with managing the infrastructure for a new application. The application requires a VPC with a subnet. You need to configure Terraform Cloud as the remote backend for managing this infrastructure. The state file should be stored securely, with the ability to lock the state during updates to avoid conflicts. The configuration should be managed in a way that allows other team members to collaborate without risking state file corruption or exposing sensitive information.
+
+##Solution and Steps
+
